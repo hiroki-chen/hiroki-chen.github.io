@@ -19,3 +19,5 @@ redirect_from:
 * I love to learn new languages. Besides English, I also took German as my second foreign language. „Die eigentlichen Gewinner des Krieges sind die Fliegen, wir mästen sie mit unserem Fleisch.“ I am learning Japanese as well (although I paused for a while).
 
 * My MBTI type is INTJ-A / INTP-A.
+
+* Love rhythm games including Arcaea, Phigros, Cytus-II, Maimai DX...
