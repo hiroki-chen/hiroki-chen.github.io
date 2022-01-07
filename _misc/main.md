@@ -2,6 +2,9 @@
 title: "Miscellanous"
 permalink: /misc/main
 collection: misc
+redirect_from:
+  - "/misc/"
+  - "/misc.html/"
 ---
 
 * I am a fan (maybe) of Apple Inc. I own the following devices:
