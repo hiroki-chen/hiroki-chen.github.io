@@ -1,6 +1,7 @@
 ---
 title: "Miscellanous"
 permalink: /misc/main
+collection: misc
 ---
 
 * I am a fan (maybe) of Apple Inc. I own the following devices:
