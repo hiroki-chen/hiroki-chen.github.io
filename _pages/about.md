@@ -32,4 +32,4 @@ Selected Works
 
 Notes
 ======
-https://www.notion.so/hiroki-chen/Notes-13a4d60d5ae1465ea7c8513b02cc23e7
+[https://www.notion.so/hiroki-chen/Notes-13a4d60d5ae1465ea7c8513b02cc23e7](https://hiroki-chen.notion.site/Notes-13a4d60d5ae1465ea7c8513b02cc23e7)
